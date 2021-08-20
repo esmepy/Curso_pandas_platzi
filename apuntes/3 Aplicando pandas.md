@@ -1,10 +1,12 @@
 ## Tabla de contenido
 
-[14 Múltiples índices](#14-mltiples-ndices)
+[14 Múltiples índices](#14-múltiples-índices)
 
-[15 Cómo trabajar con variables tipo texto en Pandas](#15-cmo-trabajar-con-variables-tipo-texto-en-pandas)
+[15 Cómo trabajar con variables tipo texto en Pandas](#15-cómo-trabajar-con-variables-tipo-texto-en-pandas)
 
-[16 Concatenación de Data Frames: concat y append](#16-concatenacin-de-data-frames-concat-y-append)
+[16 Concatenación de Data Frames: concat y append](#16-concatenación-de-data-frames-concat-y-append)
+
+[17 Merge de Dataframes](#17-merge-de-dataframes)
 
 ---
 ## 14 Múltiples índices
