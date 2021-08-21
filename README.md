@@ -1,8 +1,8 @@
 # Curso de manipulación de datos con pandas y python
 
-En la Carpeta **Notebooks** se encuentran los notebooks de google colab originales del curso al día de hoy agosto 2021. Quizá haga falta unos cambios para poderse ejecutar en Jupyter o en VScode, yo comencé a usar VScode hace menos de un mes por que jupyter me tarda mucho en abrir y también por que tener 2 ventanas abiertas (unos para ver el video del curso y otro para escribir y ejecutar código) me consumía tanta ram que el video de la clase se congelaba, :confused: y resulta que esa ventana extra consumía más ram que lo que me consume VScode. 
+En la Carpeta **Notebooks** se encuentran los notebooks de Google Colab originales del curso al día de hoy agosto 2021. Quizá haga falta unos cambios para poderse ejecutar en Jupyter o en VScode. Yo comencé a usar VScode hace menos de un mes por que jupyter me tarda mucho en abrir y también por que tener 2 ventanas abiertas (unos para ver el video del curso y otro para escribir y ejecutar código) me consumía tanta ram que el video de la clase se congelaba, :confused: y resulta que esa ventana extra consumía más ram que lo que me consume VScode. 
 
-En los últimos 2 días aprendí a enlazar github con VScode para así poder tener mis notas en la nube y poder echarles un ojo desde el celular mientras estoy recostada.  Anteriormente usaba Notion para tomar notas, pero usar la app de escritorio me consume más ram innecesario, demaisado para mi humilde :sweat_smile: por lo que ya al fin me asenté con VScode para tomar notas y ejecutar código en python (tambien puedo ejecutar archivos ipynb). Habiendo ya hecho el curso de Python intermedio, practico creando un entorno virtual para cada curso o proyecto y subirlo a git... aunque me tomó un rato de práctica enterder el Markdown, pero en fin, es aprendizaje y no me quita al contrario. :relaxed:
+En los últimos 2 días aprendí a enlazar github con VScode para así poder tener mis notas en la nube y poder echarles un ojo desde el celular mientras estoy recostada.  Anteriormente usaba Notion para tomar notas, pero usar la app de escritorio me consume más ram innecesario, demaisado para mi humilde :sweat_smile: por lo que ya al fin me asenté con VScode para tomar notas y ejecutar código en python (tambien puedo ejecutar archivos ipynb). Habiendo ya hecho el curso de Python intermedio aprovecho y practico el crear un entorno virtual para cada curso o proyecto y subirlo a git... aunque me tomó un rato de práctica enterder el Markdown, pero en fin, es aprendizaje y no me quita al contrario. :relaxed:
 
 Volviendo al tema, en la carpeta de apuntes subiré las notas que vaya tomando, lo que considere relevante; y enlazaré con el Notebook respectivo... espero que todo salga según lo planeado y esté terminando el curso a más tardar el 25 de Agosto. :pray:
 
@@ -10,7 +10,7 @@ Volviendo al tema, en la carpeta de apuntes subiré las notas que vaya tomando, 
 
 ### [1. Comenzando con Pandas](#)
 
-* [1 ¿Qué es pandas?](#)
+* 1 ¿Qué es pandas?
 * [2 Primeros pasos con Google Colab: configuración del entorno de trabajo](#)
 * [3 Series e Indexación y selección de datos]
 * [4 De paneles de datos al DataFrame]
