@@ -21,7 +21,11 @@ _No es para estructuras mas complejas: matrices de mas de 3 dimensiones por ejem
 
 ## 2 Primeros pasos con Google Colab
 Configurar entorno de trabajo
-```
+
+
+
+```python
+import random
 
 ```
 
