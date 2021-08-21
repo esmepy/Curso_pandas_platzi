@@ -11,7 +11,7 @@ Volviendo al tema, en la carpeta de **apuntes** subiré las notas que vaya toman
 ### [1. Comenzando con Pandas](#)
 
 * 1 ¿Qué es pandas?
-* [2 Primeros pasos con Google Colab: configuración del entorno de trabajo](#)
+* [2 Primeros pasos con Google Colab: configuración del entorno de trabajo]
 * [3 Series e Indexación y selección de datos]
 * [4 De paneles de datos al DataFrame]
 * [5 Indexado y manejo de archivos CSV]
