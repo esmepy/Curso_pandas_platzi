@@ -1,7 +1,7 @@
 # Curso de manipulación de datos con pandas y python
 
 
-## Tabla de contenido
+ Tabla de contenido
 
 ### [Comenzando con Pandas]
 
