@@ -1,6 +1,6 @@
 # Curso de manipulación de datos con pandas y python
 
-En la Carpeta **Notebooks** se encuentran los notebooks de Google Colab originales del curso al día de hoy agosto 2021. Quizá haga falta unos cambios para poderse ejecutar en Jupyter o en VScode. Yo comencé a usar VScode hace menos de un mes por que jupyter me tarda mucho en abrir y también por que tener 2 ventanas abiertas (unos para ver el video del curso y otro para escribir y ejecutar código) me consumía tanta ram que el video de la clase se congelaba, :confused: y resulta que esa ventana extra consumía más ram que lo que me consume VScode. 
+En la Carpeta **Notebooks** se encuentran los notebooks de Google Colab originales del curso al día de hoy agosto 2021. Quizá haga falta unos cambios para poderse ejecutar en Jupyter o en VScode. Yo comencé a usar VScode hace menos de un mes por que jupyter me tarda mucho en abrir y también por que tener 2 ventanas abiertas (una para ver el video del curso y otra para escribir y ejecutar código) me consumía tanta ram que el video de la clase se congelaba, :confused: y resulta que esa ventana extra consumía más ram que lo que me consume VScode. 
 
 En los últimos 2 días aprendí a enlazar github con VScode para así poder tener mis notas en la nube y poder echarles un ojo desde el celular mientras estoy recostada.  Anteriormente usaba Notion para tomar notas, pero usar la app de escritorio me consume más ram innecesario, demasiado para mi humilde computadora :sweat_smile: por lo que ya al fin me asenté con VScode para tomar notas y ejecutar código en python (tambien puedo ejecutar archivos ipynb). Habiendo ya hecho el curso de Python intermedio aprovecho y practico el crear un entorno virtual para cada curso o proyecto y subirlo a git... aunque me tomó un rato de práctica enterder el Markdown, pero en fin, es aprendizaje y no me quita al contrario. :relaxed:
 
@@ -16,7 +16,7 @@ Volviendo al tema, en la carpeta de **apuntes** subiré las notas que vaya toman
 * [4 De paneles de datos al DataFrame]
 * [5 Indexado y manejo de archivos CSV]
 * [6 Conexión con bases de datos tipo SQL]
-* [7 Ventajas y desventajas de los formatos de importar y guardado]
+* [7 Ventajas y desventajas de los formatos side importar y guardado]
 
 
 ### [2. Funcionalidades básicas y esenciales de pandas](#)
