@@ -262,8 +262,3 @@ np.set_printoptions(precision=2)
 Una funcionalidad extra de pandas que puede ser útil es pd.update().
 Donde básicamente si tengo df1 y df2, al hacer `pdf1.update(df2)` me actualiza o cambia los valores de df1 tomando los de df2 , pero sólo de las columnas que tienen en común.
 
-## 17 Merge de Dataframes
-
-[Link al colab der ésta clase](https://colab.research.google.com/drive/1X_7pbPE9D-K5jz447BgrxD7y7bVUL5dL)
-
-
