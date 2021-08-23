@@ -6,7 +6,6 @@
 
 [16 Concatenación de Data Frames: concat y append](#16-concatenación-de-data-frames-concat-y-append)
 
-[17 Merge de Dataframes](#17-merge-de-dataframes)
 
 ---
 ## 14 Múltiples índices

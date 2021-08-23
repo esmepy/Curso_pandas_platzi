@@ -50,3 +50,4 @@ df2.interpolate()
 
 por default hace interpolación lineal a lo largo de las columnas.
 
+[Ir a mi notebook](My_notebooks/18_datos_faltantes.ipynb)

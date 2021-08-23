@@ -2,7 +2,7 @@
 
 [Link al colab der ésta clase](https://colab.research.google.com/drive/1X_7pbPE9D-K5jz447BgrxD7y7bVUL5dL)
 
-
+[Mi notebook](My_notebooks/17_merge.ipynb)
 
 
 

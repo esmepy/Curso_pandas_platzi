@@ -38,9 +38,9 @@ Volviendo al tema, en la carpeta de **apuntes** subiré las notas que vaya toman
 
 - [16 Concatenación de Data Frames: concat y append](apuntes/3%20Aplicando%20pandas.md#16-concatenación-de-data-frames-concat-y-append)
 
-- [17 Merge de Dataframes](apuntes/3%20Aplicando%20pandas.md#17-merge-de-dataframes)
+- [17 Merge de Dataframes](apuntes/17_merge.md)
 
-- [18  ¿Cómo lidiar con datos faltantes en tus DataFrames?]
+- [18  ¿Cómo lidiar con datos faltantes en tus DataFrames?](apuntes/18_datos_faltantes.md)
 - [19  Group by]
 - [20  Cómo lidiar con datos duplicados en Pandas]
 - [21  Aggregation y groupby]
