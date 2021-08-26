@@ -44,9 +44,9 @@ Volviendo al tema, en la carpeta de **[apuntes](apuntes/)** subiré las notas qu
 - [19  Group by](apuntes/19_group_by.md)
 - [20  Cómo lidiar con datos duplicados en Pandas](apuntes/20_datos_duplicados.md)
 - [21  Aggregation y groupby](apuntes/21_aggregation_group_by.md)
-- [22  Group By: extraer valor con variables categóricas]
+- [22  Group By: extraer valor con variables categóricas](apuntes/22_group_by.md)
 - [23  Tablas dinámicas con Pivot Table]
-- [24  Series de Tiempo]
+- [24  Series de Tiempo](apuntes/23_tablas_dinamicas.md)
 - [25  Series de Tiempo: variables nulas]
 - [26  Visualización y graficación de datos]
 
