@@ -1,8 +1,8 @@
 ## 21 Aggregation y Group by
 
 
-|Mi Notebook de clase  | | [Notebook del profe](/Notebooks/21_groupby_pivot.ipynb) |
-|---------|:----:| ----:|
+|[Mi Notebook de clase](My_notebooks/21_aggregation_group_by.ipynb)  |  [Notebook del profe](/Notebooks/21_groupby_pivot.ipynb) |
+|---------| ----:|
 
 
 # . 
