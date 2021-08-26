@@ -41,9 +41,9 @@ Volviendo al tema, en la carpeta de **apuntes** subiré las notas que vaya toman
 - [17 Merge de Dataframes](apuntes/17_merge.md)
 
 - [18  ¿Cómo lidiar con datos faltantes en tus DataFrames?](apuntes/18_datos_faltantes.md)
-- [19  Group by]
-- [20  Cómo lidiar con datos duplicados en Pandas]
-- [21  Aggregation y groupby]
+- [19  Group by](apuntes/19_group_by.md)
+- [20  Cómo lidiar con datos duplicados en Pandas](apuntes/20_datos_duplicados.md)
+- [21  Aggregation y groupby](apuntes/21_aggregation_group_by.md)
 - [22  Group By: extraer valor con variables categóricas]
 - [23  Tablas dinámicas con Pivot Table]
 - [24  Series de Tiempo]
