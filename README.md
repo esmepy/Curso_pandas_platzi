@@ -4,7 +4,7 @@ En la Carpeta **[Notebooks](Notebooks/)** se encuentran los notebooks de Google 
 
 En los últimos 2 días aprendí a enlazar github con VScode para así poder tener mis notas en la nube y poder echarles un ojo desde el celular mientras estoy recostada.  Anteriormente usaba Notion para tomar notas, pero usar la app de escritorio me consume más ram innecesario, demasiado para mi humilde computadora :sweat_smile: por lo que ya al fin me asenté con VScode para tomar notas y ejecutar código en python (tambien puedo ejecutar archivos ipynb). Habiendo ya hecho el curso de Python intermedio aprovecho y practico el crear un entorno virtual para cada curso o proyecto y subirlo a git... aunque me tomó un rato de práctica enterder el Markdown, pero en fin, es aprendizaje y no me quita al contrario. :relaxed:
 
-Volviendo al tema, en la carpeta de **apuntes** subiré las notas que vaya tomando, lo que considere relevante; y enlazaré con el Notebook respectivo... espero que todo salga según lo planeado y esté terminando el curso a más tardar el 25 de Agosto. :pray:
+Volviendo al tema, en la carpeta de **[apuntes](apuntes/)** subiré las notas que vaya tomando, lo que considere relevante; y enlazaré con el Notebook respectivo... espero que todo salga según lo planeado y esté terminando el curso a más tardar el 25 de Agosto. :pray:
 
  Tabla de contenido
 
