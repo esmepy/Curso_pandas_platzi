@@ -46,7 +46,7 @@ Volviendo al tema, en la carpeta de **[apuntes](apuntes/)** subiré las notas qu
 - [21  Aggregation y groupby](apuntes/21_aggregation_group_by.md)
 - [22  Group By: extraer valor con variables categóricas](apuntes/22_group_by.md)
 - [23  Tablas dinámicas con Pivot Table](apuntes/23_tablas_dinamicas.md)
-- [24  Series de Tiempo]
+- [24  Series de Tiempo](apuntes/24_Series_tiempo.md)
 - [25  Series de Tiempo: variables nulas]
 - [26  Visualización y graficación de datos]
 
