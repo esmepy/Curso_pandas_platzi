@@ -7,11 +7,16 @@
 
 ___
 
-Con group by podemos generar un dataframe como el siguiente
+Con groupby podemos generar un dataframe como el siguiente
 
 <img src="/images/23_00.jpg" alt="drawing" width="300"/>
 
-el cual tiene múltiples índices
+usando el siguiente código:
+```python
+df_gp = df.groupby(['sex','time'])[['total_bill']].mean().reset_index()
+```
+
+el cual tiene múltiples índices `sex` y `time` y muestra la media.
 
 Una mejor forma de vizualizarlo es pasando el segundo grupo como columnas, para ello pusamos `.pivot_table()`, con los siguientes parámetros:
 - `values` los valores que se mostrarán dentro de la tabla
@@ -26,7 +31,7 @@ El resultado es el siguiente:
 
 <img src="/images/23_01.jpg" alt="drawing" width="300"/>
 
-Por default `.pivot_table` obtiene la media, pero podríamos definir qué función aplicar `aggfunc`
+Por default `.pivot_table` obtiene la **media**, pero podríamos definir qué función aplicar `aggfunc`
 
 ```python
 df.pivot_table(values='total_bill', index='sex', columns='time', aggfunc='median')
