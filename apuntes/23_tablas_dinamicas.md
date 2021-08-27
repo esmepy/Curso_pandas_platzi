@@ -9,7 +9,7 @@ ___
 
 Con group by podemos generar un dataframe como el siguiente
 
-<img src="/images/23_00.jpg" alt="drawing" width="300"/>
+<img src="../images/23_00.jpg" alt="drawing" align="center"/>
 
 el cual tiene múltiples índices
 
@@ -24,7 +24,7 @@ df.pivot_table(values='total_bill', index='sex', columns='time')
 
 El resultado es el siguiente:
 
-<img src="/images/23_01.jpg" alt="drawing" width="300"/>
+<img src="../images/23_01.jpg" alt="drawing">
 
 Por default `.pivot_table` obtiene la media, pero podríamos definir qué función aplicar `aggfunc`
 
