@@ -11,8 +11,8 @@ Volviendo al tema, en la carpeta de **[apuntes](apuntes/)** subiré las notas qu
 ### 1. Comenzando con Panda
 
 - [1 ¿Qué es pandas?](apuntes/01_Comenzando_con_pandas.md)
-- [2 Primeros pasos con Google Colab](apuntes/02_primeros_pasos.md)
-- [3 Series e Indexación y selección de datos]
+- [2 Primeros pasos con Google Colab](apuntes/01_02_03_comenzando.md#2--primeros-pasos-con-google-colab)
+- [3 Series e Indexación y selección de datos](apuntes/01_02_03_comenzando.md#3--primeros-pasos-con-google-colab)
 - [4 De paneles de datos al DataFrame]
 - [5 Indexado y manejo de archivos CSV]
 - [6 Conexión con bases de datos tipo SQL]

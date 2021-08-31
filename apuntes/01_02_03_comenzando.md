@@ -1,0 +1,74 @@
+## 1.- ¿Qué es Pandas?
+
+* Es una librería enfocada al análisis de datos.
+* Es la librería más usada por Data Scientist.
+* Se la usa en analítica, estadística, economía y análisis de lenguaje.
+* Pandas viene de **PANel DAta**.
+* Fue inventada en 2008 por Wes McKinney para analizar grandes volúmnenes de datos financieros.
+
+**Ventajas** 
+* Reduce líneas de código.
+* Diseñada especialmente para el análisis.
+* API fácil y concisa.
+* Múltiples funciones.
+  
+**Desventajas**
+* Incompatibilidad con matrices 3D.
+* Curva de aprendizaje lenta.
+
+_No es para estructuras mas complejas: matrices de mas de 3 dimensiones por ejemplo, en ese caso se recomienda numpy o numba_
+
+
+
+## 2.- Primeros pasos con Google Colab
+
+|[Mi Notebook de clase](My_notebooks/02_primeros_pasos.ipynb)  |  [Notebook del profe](/Notebooks/01_primeros_pasos.ipynb) |
+|---------| ----:|
+
+---
+
+
+**Listas:** cadenas estructuradas de elementos
+Las Listas de python carene de la habilidad de hacer operaciones matemáticas. no hay operaciones entre listas en python, si se hace una suma de listas, se concatenará. 
+```python
+[1,2,3,4,5] + [10]
+#[1, 2, 3, 4, 5, 10]
+```
+
+Para hacer operaciones entre listas se puede usar **Numpy**.
+
+En Numpy las dimensiones se llaman _ejes/axis_
+
+Para definir un arreglo en Numpy se usa `.array()`, sobre éste arreglo se le puede aplicar una suma que sumará el valor a cada elemento 
+
+```python
+np.array([1,2,3,4,5]) +10
+```
+- La lista va entre paréntesis
+
+Para saber las dimensiones del array se usa `.shape`
+
+```python
+np.array([[1,2,3,4],[6,7,8,9]]).shape
+#(2, 4)
+```
+- para agregar mas dimensiones, se pueden usar mas de un corchete cuadrado sin comas intermedias
+
+<img src="../images/02_01.jpg" alt="shape" align="center"/>
+
+
+## 3.- Series e indexación y selección de datos
+
+|[Mi Notebook de clase](My_notebooks/03_series.ipynb)  |  [Notebook del profe](/Notebooks/01_primeros_pasos.ipynb) |
+|---------| ----:|
+
+---
+
+
+Pandas cuenta son objetos tipo Series, se definen usando `.Series()` con *S* mayúscula.
+* dentro del paréntesis se puede colocar una lista lo que creará un objeto tipo serie
+* con doble corchete cuadrado se crea un Dataframe
+
+
+
+
