@@ -3,7 +3,7 @@
 |[Mi Notebook de clase](My_notebooks/18_datos_faltantes.ipynb)  |  No hay Notebook del profe |
 |---------| ----:|
 
-### 
+---
 
 
 El objeto *nan* de **Numpy** interactúa con cálculos numéricos y siempre devolverá *nan*; el objeto de **pandas** NA interactúa además con texto y otro tipo de variables como las tipo booleanos.
