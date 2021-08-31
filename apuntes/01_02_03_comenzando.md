@@ -90,13 +90,29 @@ mi_serie[[0,4,2]]
 Podemos cambiar el nombre de los índices para que no sea numérico, definiendo **una lista de índices**
 
 ```python
-sr = pd.Series([10,9,8,7,6], index = ['a','b','c','d','e'])
+mi_serie = pd.Series([10,9,8,7,6], index = ['a','b','c','d','e'])
 ```
 
 Podemos también usar slices **usando sólo un corchete cuadrado**
 
 ```python
-sr['b':'e']
+mi_serie['b':'e']
+```
+
+Se pueden crear series de pandas con diccionarios, para así asignar nombres/valores a los  índices. En un caso sencillo el valor de los indices será el valor de las llaves.
+
+```python
+pd.Series({'CO':57, 'ECU':593, 'USA':1, 'UY':598, 'MX':200})
+```
+
+Si tenemos un diccionario, podemos crear una serie seleccionando las llaves que deseemos, en caso de que una llave no exista, se generará un valor NaN
+
+```python
+pd.Series(dict_data, index=['CO','MX','PE'])
 ```
 
 
+**NOTAS**
+
+- si usamos `.keys()` se mostrará el valor de las llaver en el orden en el que se introdujeron los elementos.
+- Cualquier operación que se haga sobre una variable Nula(NaN), dará como resultado NaN
