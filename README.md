@@ -8,9 +8,9 @@ Volviendo al tema, en la carpeta de **[apuntes](apuntes/)** subiré las notas qu
 
  Tabla de contenido
 
-### [1. Comenzando con Pandas](#)
+### 1. Comenzando con Panda
 
-- 1 ¿Qué es pandas?
+- [1 ¿Qué es pandas?](apuntes/01_Comenzando_con_pandas.md)
 - [2 Primeros pasos con Google Colab: configuración del entorno de trabajo]
 - [3 Series e Indexación y selección de datos]
 - [4 De paneles de datos al DataFrame]
