@@ -11,7 +11,7 @@ Volviendo al tema, en la carpeta de **[apuntes](apuntes/)** subiré las notas qu
 ### 1. Comenzando con Panda
 
 - [1 ¿Qué es pandas?](apuntes/01_Comenzando_con_pandas.md)
-- [2 Primeros pasos con Google Colab: configuración del entorno de trabajo]
+- [2 Primeros pasos con Google Colab](apuntes/02_primeros_pasos.md)
 - [3 Series e Indexación y selección de datos]
 - [4 De paneles de datos al DataFrame]
 - [5 Indexado y manejo de archivos CSV]
@@ -19,7 +19,7 @@ Volviendo al tema, en la carpeta de **[apuntes](apuntes/)** subiré las notas qu
 - [7 Ventajas y desventajas de los formatos de importar y guardado]
 
 
-### [2. Funcionalidades básicas y esenciales de pandas](#)
+### [2. Funcionalidades básicas y esenciales de pandas]
 
 - [8 Formatos de lectura para cargar y guardar DataFrames]
 - [9 Tipos de Variables que componen un data frame]
