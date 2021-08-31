@@ -19,5 +19,5 @@ El dataframe que creamos tiene todos los casos de Covid desde el primer día de 
 - el número de 'sobrevivientes' por día
 - el incremento de casos por día , usando `.diff()`
 
-Al aplicar la diferencia a un dataframe, la primera fila tendrá valores **nana*
+Al aplicar la diferencia a un dataframe, la primera fila tendrá valores **nan*
 
