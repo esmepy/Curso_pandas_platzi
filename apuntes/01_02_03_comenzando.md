@@ -65,10 +65,38 @@ np.array([[1,2,3,4],[6,7,8,9]]).shape
 ---
 
 
-Pandas cuenta son objetos tipo Series, se definen usando `.Series()` con *S* mayúscula.
-* dentro del paréntesis se puede colocar una lista lo que creará un objeto tipo serie
-* con doble corchete cuadrado se crea un Dataframe
+Pandas cuenta con objetos tipo Series, son una especie de vectores pero con una columna de indexación. se definen usando `.Series()` con **S** mayúscula.
+
+* Dentro del paréntesis se puede colocar una lista lo que creará un objeto tipo serie.
+
+Para verificar el tipo usamos `type(<objeto>)`.
+
+### Métodos de Series
 
 
+- `serie.values` --> devuelve los valores --> objeto tipo numpy, es un vector
+- `serie.index` --> devuelve el rango si es sólo un vector, o los índices si éstos ya están personalizados.
+- `serie.shape` --> la dimensión
+
+### Indices
+
+para acceder a un elemento usamos el doble corechete cuadrado, además podemos acceder a múltiples índices.
+
+```python
+mi_serie[[0,4,2]]
+#serán elegidos en el orden que decidamos
+```
+
+Podemos cambiar el nombre de los índices para que no sea numérico, definiendo **una lista de índices**
+
+```python
+sr = pd.Series([10,9,8,7,6], index = ['a','b','c','d','e'])
+```
+
+Podemos también usar slices **usando sólo un corchete cuadrado**
+
+```python
+sr['b':'e']
+```
 
 
