@@ -3,7 +3,8 @@
 | [Mi Notebook de clase](My_notebooks/24_Series_tiempo.ipynb)  |  [Notebook del profe](/Notebooks/24_datetime.ipynb) |
 |---------| ----:|
 
-### 
+----
+
 
 en esta clase usamos una base de datos de covid de  Kaggle (tiene 8 columnas)
 
@@ -70,3 +71,14 @@ S - Secondly frequency
 L, ms - Millisecond frequency
 U, us - Microsecond frequency
 N, ns - Nanosecond frequency
+
+
+## 25  Series de Tiempo: variables nulas
+
+| [Mi Notebook de clase](My_notebooks/24_Series_tiempo.ipynb)  |  [Notebook del profe](/Notebooks/24_datetime.ipynb) |
+|---------| ----:|
+
+---
+
+
+
